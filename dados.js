@@ -13,5 +13,10 @@ let dados = [
         nome: "Java",
         cursos: "1. Oracle Academy, 2. Udemy, 3. Coursera, 4. Edureka",
         link: "https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)"
+    },
+    {
+        nome: "JavaScript",
+        cursos: "1. FreeCodeCamp, 2. MDN Web Docs, 3. W3Schools",
+        link: "https://pt.wikipedia.org/wiki/JavaScript"
     }
 ];
